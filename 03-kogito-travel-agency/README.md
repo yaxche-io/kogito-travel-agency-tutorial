@@ -1,5 +1,7 @@
 # Kogito Travel Agency
 
+## Note on Cross-Browser Compatability
+This example only works on Chrome not FireFox as of 2020 Oct 08.  In FireFox, when clicking on Tasks, the incorrect task button will be displayed.
 
 ## Description
 
